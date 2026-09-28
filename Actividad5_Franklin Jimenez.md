@@ -79,3 +79,16 @@
 **JavaScript:** Lenguaje de programación interpretado usado para dar interactividad a las páginas web, aunque también corre fuera del navegador (por ejemplo, con Node.js).
 
 **TypeScript:** Lenguaje que extiende a JavaScript agregando tipado estático; su código se transpila a JavaScript para ejecutarse.
+
+
+
+
+https://coddy.tech/blog/es/programaci%C3%B3n-para-principiantes/glosario-de-programaci%C3%B3n-para-principiantes-25-t%C3%A9rminos-clave-explicados
+https://www.hostgator.mx/blog/conceptos-de-programacion/
+
+
+
+
+
+
+
